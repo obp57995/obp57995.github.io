@@ -1,0 +1,81 @@
+body {
+	background-color: #333333;
+	font-family: Times New Roman;
+}
+#Header {
+	text-align: center;
+	color: #00ffff;
+	font-family: Times New Roman;
+
+}
+.Florida {
+	height: 400px;
+	width: 100%
+}
+
+#main {
+	
+	background-color: white;
+	padding-top: 10px;
+	padding: 1cm 2cm 1cm;
+}
+.Bank {
+	float: right;
+	width: 300px;
+	height: 300px;
+}
+#Schedule {
+	width: 800px;
+	height: 400px;
+	font-family: Times new Roman;
+	text-align: center;
+	background-color: white;
+	padding-top: 10px;
+	padding: 1cm 2cm 2cm;
+	margin: 5px auto;
+}
+#FL {
+	height: 300px;
+	width: 100%;
+}
+#Name {
+	color: #ff9900;
+	text-align: left;
+}
+.Li {
+	color: #ff9900;
+	text-align: left;
+}
+.Ash {
+	background: #ff9900;
+}
+.trial {
+	background: #ff9900;
+}
+.trial1 {
+	background: #ff9900;
+}
+.trial2 {
+	background: #ff9900;
+}
+.trial3 {
+	background: #ff9900;
+}
+.trial4 {
+	background: #ff9900;
+}
+.trial5 {
+	background: #ff9900;
+}
+.trial6 {
+	background: #ff9900;
+}
+.trial7 {
+	background: #ff9900;
+}
+.trial8 {
+	background: #ff9900;
+}
+.trial9 {
+	background: #ff9900;
+}
